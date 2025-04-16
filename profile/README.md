@@ -1,5 +1,11 @@
 ![PostBanner](https://github.com/user-attachments/assets/5cbf666a-558d-4c4b-9d63-90fbe29d4252)
 
+<p align="center">
+  <a href="https://avafe.me/bsky"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://avafe.me/x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://avafe.me/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+</p>
+
 #
 
 <br>
@@ -15,6 +21,24 @@ All-in-one social framework for Roblox
 Quick, customizable components for Fusion
 
 <img src="https://github.com/user-attachments/assets/dfc531ff-e70a-4ab9-801f-7449c4af6ab7" width="400px"></img>
+
+# [Avalog](https://github.com/Loneka/Avalog)
+
+Easy, themable avatar catalog for Roblox
+
+<img src="https://github.com/user-attachments/assets/96c6f387-e449-44d4-8602-86936e394ee5" width="400px"></img>
+
+# [NeoHotbar](https://github.com/Loneka/NeoHotbar)
+
+Modern, customizable hotbar for Roblox
+
+<img src="https://github.com/user-attachments/assets/26284976-5106-435b-b7b2-11c779e0ce3d" width="400px"></img>
+
+# [Moonlets](https://github.com/Loneka/Moonlets)
+
+Unopinionated utility modules for Roblox
+
+<img src="https://github.com/user-attachments/assets/ee61fdc3-760a-48d6-a847-18cd6f6097b2" width="400px"></img>
 
 <br>
 
