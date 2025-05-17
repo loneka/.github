@@ -1,4 +1,4 @@
-[![PostBanner](https://github.com/user-attachments/assets/5cbf666a-558d-4c4b-9d63-90fbe29d4252)](https://suite.loneka.com)
+[![PostBanner](https://github.com/user-attachments/assets/9c78725c-ebaa-4cd3-a064-47cc90844416)](https://suite.loneka.com)
 
 <p align="center">
   <a href="https://avafe.me/bsky"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" /></a>
