@@ -12,9 +12,9 @@
 
 # [Rorooms](https://github.com/Rorooms/Rorooms)
 
-All-in-one social framework for Roblox
+Social/roleplay framework for Roblox
 
-<a href="https://github.com/Rorooms/Rorooms"><img src="https://github.com/user-attachments/assets/1e5b9dd8-1341-40be-9c68-79829d7db0c1" width="400px"></img></a>
+<a href="https://github.com/Rorooms/Rorooms"><img src="https://github.com/user-attachments/assets/842bf7dc-86af-4352-a75d-ccdfe7c1b55d" width="400px"></img></a>
 
 # [OnyxUI](https://github.com/Loneka/OnyxUI)
 
